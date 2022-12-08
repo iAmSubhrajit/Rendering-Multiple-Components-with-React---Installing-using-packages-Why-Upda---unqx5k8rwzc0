@@ -5,7 +5,7 @@ import Name from "./Name";
 
 const App = () => {
   return (
-    <div data--ns-test="main">
+    <div id="main">
       <Name />
       <Description />
     </div>
